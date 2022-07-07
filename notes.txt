@@ -1,0 +1,19 @@
+git - free open source version control
+version control -> track changes for files
+cli -> command line interface
+cd - change directory
+reposityory - project folder / place where project lays
+github - place to host git repositories
+
+github commands:
+clone -> copy repo from github to locally
+add - track your files and changes in git
+commit - save your files in git
+push - upload git commits to remote repo, github
+pull - download changes from remote repo to local machine
+
+using ssh keys to access repositories - one key per computer
+
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+
